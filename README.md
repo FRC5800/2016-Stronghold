@@ -7,11 +7,10 @@ Repositório da equipe FRC 5800 para a temporada 2016 FIRST® Stronghold. Sistem
 
 ## Sites e Redes Sociais
 
-- [FRC 5800 Website](mi5800.weebly.com)
+- [FRC 5800 Website](frc5800.github.io)
 - [FRC 5800 Wordpress Blog](mi5800.wordpress.com)
-- [Magic Island Robotics Facebook Fanpage](facebook.com/mi5800)
+- [Magic Island Robotics Facebook Fanpage](facebook.com/frc5800)
 - [Magic Island Robotics Instagram Profile](instagram.com/frc5800)
-- Snapchat: @mi5800
 
 ## Robô
 
@@ -31,11 +30,10 @@ Repositório da equipe FRC 5800 para a temporada 2016 FIRST® Stronghold. Sistem
 
 ## Websites and Social Media
 
-- [FRC 5800 Website](mi5800.weebly.com)
+- [FRC 5800 Website](http://frc5800.github.io)
 - [FRC 5800 Wordpress Blog](mi5800.wordpress.com)
-- [Magic Island Robotics Facebook Fanpage](facebook.com/mi5800)
+- [Magic Island Robotics Facebook Fanpage](facebook.com/frc5800)
 - [Magic Island Robotics Instagram Profile](instagram.com/frc5800)
-- Snapchat: @mi5800
 
 ## Robot
 
@@ -49,4 +47,4 @@ Repositório da equipe FRC 5800 para a temporada 2016 FIRST® Stronghold. Sistem
 
 ![](https://mi5800.files.wordpress.com/2016/12/mi5800-logo-2017_semfundo.png?w=250)
 ![](https://www.firstinspires.org/sites/default/files/first-logo-200px.png)
-![](https://www.firstinspires.org/sites/default/files/uploads/rightimage/first-steamworks-logo-2.jpg)
+![](http://cybercats5436.com/wp-content/uploads/2016/01/first-stronghold.jpg)
